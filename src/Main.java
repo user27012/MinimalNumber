@@ -14,6 +14,7 @@ public class Main {
 
         Iterator<Integer> iterator = spisok.iterator();
 
+
         while(iterator.hasNext()){
             Integer tmp = iterator.next();
             System.out.println(tmp);
